@@ -1,4 +1,4 @@
-## Identifying Pneumonia with a Convolutional Neural Network
+## Diagnosing Pneumonia with a Convolutional Neural Network
 
 ### Overview
 Expert healthcare is a resource that is consistently in short supply.  As powers of computational pattern recognition increase with new technologies, so does the potential to increase access to this important resource.  The power of convolutional neural networks for image interpretation has reached a stage where performance superior to a human diagnostician is within reach.  Leveraging these emerging technologies for healthcare can free up healthcare professionals to focus on other tasks.  
