@@ -16,7 +16,7 @@ The training data are over 5000 x-ray images from a hospital in China.  The subj
 
 ### The Model and Results
 
-The model was built in Keras.  It is convolutional neural network.  We iterated over several models but the most accurate one has three hidden layers.  The activation functions were Relu in the hidden layers and sigmoid at the output.  The model achieved approximately 90%  accuracy on the test data.  
+The model was built in Keras.  It is convolutional neural network.  We iterated over three models but the most accurate one has three hidden layers.  The activation functions were Relu in the hidden layers and sigmoid at the output.  The model achieved approximately 90% accuracy on the test data.  
 
 ![performance](performance.png)
 
